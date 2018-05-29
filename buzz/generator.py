@@ -1,7 +1,7 @@
 from __future__ import print_function
 import random
 
-buzz = ('continuous THIS IS THIRD ASSIGMNET', 'continuous integration',
+buzz = ('continuous MY NAME IS ANU', 'continuous integration',
     'continuous deployment', 'continuous improvement', 'devops')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
